@@ -1,3 +1,3 @@
 # Website
 Project cp
-file got corrupted so i downloaded my files and deleted my repository
+i couldnt push it to the initial repository
